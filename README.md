@@ -1,0 +1,2 @@
+# codeGenerationPlatform
+自动生成elementui代码
